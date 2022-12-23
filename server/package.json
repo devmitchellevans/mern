@@ -11,5 +11,8 @@
     "node"
   ],
   "author": "mico",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.15"
+  }
 }
