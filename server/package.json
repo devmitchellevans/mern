@@ -1,12 +1,15 @@
 {
-  "name": "mern-server",
+  "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "mern-service",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "keywords": [
+    "node"
+  ],
+  "author": "mico",
   "license": "ISC"
 }
